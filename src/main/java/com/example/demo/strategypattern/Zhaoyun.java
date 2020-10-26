@@ -1,6 +1,6 @@
 package com.example.demo.strategypattern;
 
-import com.example.demo.strategypattern.contro.Context;
+import com.example.demo.strategypattern.controller.Context;
 import com.example.demo.strategypattern.service.impl.BackDoor;
 import com.example.demo.strategypattern.service.impl.BlockEnemy;
 import com.example.demo.strategypattern.service.impl.GreenLight;
